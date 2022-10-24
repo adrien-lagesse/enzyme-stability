@@ -1,3 +1,6 @@
 
 .DS_Store
 .env
+levenshtein_distance.npy
+enzymes_utils/target
+enzymes_utils/Cargo.lock
